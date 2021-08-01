@@ -81,6 +81,10 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+React is code that responds directly to the user on the site/webpage/app. 
 1. Describe component state.
+honestly still don't understand this one.
 1. Describe props.
+elements used to define certain components in JS code.
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+changes to the code in response to the user's activity on the site/webpage/app.
