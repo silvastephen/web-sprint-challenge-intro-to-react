@@ -37,6 +37,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Your finished project must include all of the following requirements:
 
 - [ ] Use the endpoint `[GET] https://swapi.dev/api/people` (mocked in [msw](https://github.com/mswjs/msw)) to obtain characters.
+Okay in all honesty I have no idea what's going on, I don't get it and I feel like giving up. None of this makes sense to me right now.
 - [ ] Set the list of characters into state.
 - [ ] Render your characters to the DOM:
 
